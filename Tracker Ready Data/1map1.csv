@@ -43,12 +43,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8031,Denver,Colorado,-104.8758,39.762,3,local,1.0
 35013,Dona Ana,New Mexico,-106.8328,32.3526,2,imported,0.0
 35013,Dona Ana,New Mexico,-106.8328,32.3526,2,local,2.0
+48133,Eastland,Texas,-98.8323,32.3271,2,imported,0.0
+48133,Eastland,Texas,-98.8323,32.3271,2,local,2.0
 48135,Ector,Texas,-102.5429,31.8692,11,imported,0.0
 48135,Ector,Texas,-102.5429,31.8692,11,local,11.0
 35015,Eddy,New Mexico,-104.3044,32.4714,3,imported,0.0
 35015,Eddy,New Mexico,-104.3044,32.4714,3,local,3.0
-48141,El Paso,Texas,-106.2348,31.7686,38,imported,0.0
-48141,El Paso,Texas,-106.2348,31.7686,38,local,38.0
+48141,El Paso,Texas,-106.2348,31.7686,44,imported,0.0
+48141,El Paso,Texas,-106.2348,31.7686,44,local,44.0
 48143,Erath,Texas,-98.2179,32.2363,1,imported,0.0
 48143,Erath,Texas,-98.2179,32.2363,1,local,1.0
 42049,Erie,Pennsylvania,-80.0327,41.9925,5,imported,2.0
@@ -59,28 +61,28 @@ fips,county,state,longitude,latitude,cases_total,type,count
 20055,Finney,Kansas,-100.737,38.0443,3,local,2.0
 20057,Ford,Kansas,-99.888,37.6917,2,imported,0.0
 20057,Ford,Kansas,-99.888,37.6917,2,local,2.0
-48157,Fort Bend,Texas,-95.7709,29.5275,2,imported,0.0
-48157,Fort Bend,Texas,-95.7709,29.5275,2,local,2.0
+48157,Fort Bend,Texas,-95.7709,29.5275,1,imported,0.0
+48157,Fort Bend,Texas,-95.7709,29.5275,1,local,1.0
 21073,Franklin,Kentucky,-84.877,38.2392,1,imported,1.0
 21073,Franklin,Kentucky,-84.877,38.2392,1,local,0.0
 6019,Fresno,California,-119.6493,36.7582,2,imported,1.0
 6019,Fresno,California,-119.6493,36.7582,2,local,1.0
 13121,Fulton,Georgia,-84.467,33.7902,3,imported,1.0
 13121,Fulton,Georgia,-84.467,33.7902,3,local,2.0
-48165,Gaines,Texas,-102.6352,32.7408,396,imported,0.0
-48165,Gaines,Texas,-102.6352,32.7408,396,local,396.0
-30031,Gallatin,Montana,-111.1704,45.5404,7,imported,0.0
-30031,Gallatin,Montana,-111.1704,45.5404,7,local,7.0
+48165,Gaines,Texas,-102.6352,32.7408,403,imported,0.0
+48165,Gaines,Texas,-102.6352,32.7408,403,local,403.0
+30031,Gallatin,Montana,-111.1704,45.5404,8,imported,5.0
+30031,Gallatin,Montana,-111.1704,45.5404,8,local,3.0
 48169,Garza,Texas,-101.2984,33.1799,2,imported,0.0
 48169,Garza,Texas,-101.2984,33.1799,2,local,2.0
 20067,Grant,Kansas,-101.308,37.5623,2,imported,0.0
 20067,Grant,Kansas,-101.308,37.5623,2,local,2.0
 20069,Gray,Kansas,-100.4379,37.7382,15,imported,0.0
 20069,Gray,Kansas,-100.4379,37.7382,15,local,15.0
-48189,Hale,Texas,-101.8269,34.0705,5,imported,0.0
-48189,Hale,Texas,-101.8269,34.0705,5,local,5.0
-48197,Hardeman,Texas,,,1,imported,0.0
-48197,Hardeman,Texas,,,1,local,1.0
+48189,Hale,Texas,-101.8269,34.0705,6,imported,0.0
+48189,Hale,Texas,-101.8269,34.0705,6,local,6.0
+48197,Hardeman,Texas,-99.7457,34.2902,1,imported,0.0
+48197,Hardeman,Texas,-99.7457,34.2902,1,local,1.0
 48201,Harris,Texas,-95.3938,29.8578,4,imported,0.0
 48201,Harris,Texas,-95.3938,29.8578,4,local,4.0
 20081,Haskell,Kansas,-100.8712,37.5622,8,imported,0.0
@@ -109,8 +111,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 39083,Knox,Ohio,-82.4215,40.3988,20,local,17.0
 47093,Knox,Tennessee,-83.9371,35.9932,3,imported,0.0
 47093,Knox,Tennessee,-83.9371,35.9932,3,local,3.0
-48277,Lamar,Texas,-95.5712,33.6673,17,imported,0.0
-48277,Lamar,Texas,-95.5712,33.6673,17,local,17.0
+48277,Lamar,Texas,-95.5712,33.6673,18,imported,0.0
+48277,Lamar,Texas,-95.5712,33.6673,18,local,18.0
 48279,Lamb,Texas,-102.3517,34.0686,1,imported,0.0
 48279,Lamb,Texas,-102.3517,34.0686,1,local,1.0
 50015,Lamoille,Vermont,-72.6419,44.607,1,imported,1.0
@@ -121,8 +123,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 35025,Lea,New Mexico,-103.4125,32.7921,61,local,61.0
 6037,Los Angeles,California,-118.2247,34.3219,1,imported,1.0
 6037,Los Angeles,California,-118.2247,34.3219,1,local,0.0
-48303,Lubbock,Texas,-101.8205,33.6102,50,imported,0.0
-48303,Lubbock,Texas,-101.8205,33.6102,50,local,50.0
+48303,Lubbock,Texas,-101.8205,33.6102,51,imported,0.0
+48303,Lubbock,Texas,-101.8205,33.6102,51,local,51.0
 48305,Lynn,Texas,-101.8161,33.1768,2,imported,0.0
 48305,Lynn,Texas,-101.8161,33.1768,2,local,2.0
 26099,Macomb,Michigan,-82.9323,42.6957,1,imported,1.0
@@ -143,12 +145,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 36061,New York,New York,-73.9668,40.7792,3,local,3.0
 26125,Oakland,Michigan,-83.3858,42.6604,1,imported,1.0
 26125,Oakland,Michigan,-83.3858,42.6604,1,local,0.0
-40109,Oklahoma,Oklahoma,-97.4072,35.5515,13,imported,0.0
-40109,Oklahoma,Oklahoma,-97.4072,35.5515,13,local,13.0
+40109,Oklahoma,Oklahoma,-97.4072,35.5515,14,imported,0.0
+40109,Oklahoma,Oklahoma,-97.4072,35.5515,14,local,14.0
 6059,Orange,California,-117.7609,33.7031,1,imported,1.0
 6059,Orange,California,-117.7609,33.7031,1,local,0.0
-48369,Parmer,Texas,-102.7845,34.5301,4,imported,0.0
-48369,Parmer,Texas,-102.7845,34.5301,4,local,4.0
+48369,Parmer,Texas,-102.7845,34.5301,5,imported,0.0
+48369,Parmer,Texas,-102.7845,34.5301,5,local,5.0
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,2,imported,2.0
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,2,local,0.0
 6061,Placer,California,-120.7177,39.0634,1,imported,1.0
@@ -183,15 +185,19 @@ fips,county,state,longitude,latitude,cases_total,type,count
 20189,Stevens,Kansas,-101.3121,37.1923,7,local,7.0
 36103,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
 36103,Suffolk,New York,-72.8456,40.8681,1,local,1.0
-48445,Terry,Texas,-102.3352,33.1738,59,imported,0.0
-48445,Terry,Texas,-102.3352,33.1738,59,local,59.0
+48439,Tarrant,Texas,-97.2911,32.7719,2,imported,0.0
+48439,Tarrant,Texas,-97.2911,32.7719,2,local,2.0
+48445,Terry,Texas,-102.3352,33.1738,60,imported,0.0
+48445,Terry,Texas,-102.3352,33.1738,60,local,60.0
 48453,Travis,Texas,-97.782,30.3344,2,imported,0.0
 48453,Travis,Texas,-97.782,30.3344,2,local,2.0
 6109,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 6109,Tuolumne,California,-119.9548,38.0276,2,local,0.0
 48459,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 48459,Upshur,Texas,-94.9415,32.7363,5,local,5.0
+38105,Williams,North Dakota,-103.4802,48.3437,4,imported,1.0
+38105,Williams,North Dakota,-103.4802,48.3437,4,local,3.0
 17199,Williamson,Illinois,-88.9299,37.7303,1,imported,0.0
 17199,Williamson,Illinois,-88.9299,37.7303,1,local,1.0
-48501,Yoakum,Texas,-102.8278,33.173,19,imported,0.0
-48501,Yoakum,Texas,-102.8278,33.173,19,local,19.0
+48501,Yoakum,Texas,-102.8278,33.173,20,imported,0.0
+48501,Yoakum,Texas,-102.8278,33.173,20,local,20.0
