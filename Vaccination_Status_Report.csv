@@ -1,9 +1,9 @@
 County,Vaccinated,Vaccinated (1 dose),Vaccinated (2+ doses),Unvaccinated or Unknown,Unvaccinated,Unknown,Total Confirmed Cases
-Texas,30.0,13,17,667.0,0.0,0.0,697
+Texas,30.0,13,17,688.0,0.0,0.0,718
 New Mexico,8.0,0,0,59.0,47.0,12.0,67
 Kansas,4.0,0,0,0.0,39.0,3.0,46
 Alaska,0.0,0,0,1.0,1.0,0.0,1
-Arkansas,0.0,0,0,2.0,2.0,0.0,4
+Arkansas,0.0,0,0,4.0,4.0,0.0,4
 California,0.0,0,0,9.0,2.0,7.0,9
 Colorado,1.0,0,0,4.0,2.0,2.0,5
 Florida,0.0,0,0,1.0,0.0,1.0,1
@@ -15,14 +15,15 @@ Kentucky,0.0,0,0,1.0,0.0,1.0,1
 Maryland,0.0,0,0,3.0,0.0,3.0,3
 Michigan,1.0,0,0,1.0,0.0,7.0,9
 Minnesota,0.0,0,0,2.0,1.0,1.0,2
-Montana,0.0,0,0,7.0,0.0,0.0,7
+Montana,0.0,0,0,8.0,0.0,0.0,8
 New Jersey,0.0,0,0,3.0,3.0,0.0,3
 New York,0.0,0,0,4.0,3.0,1.0,4
+North Dakota,0.0,0,0,4.0,4.0,0.0,4
 Ohio,0.0,0,0,34.0,11.0,23.0,34
-Oklahoma,1.0,0,0,12.0,12.0,0.0,13
+Oklahoma,1.0,0,0,13.0,12.0,1.0,14
 Pennsylvania,0.0,0,0,10.0,3.0,7.0,10
 Rhode Island,0.0,0,0,1.0,1.0,0.0,1
 Tennessee,0.0,0,0,4.0,0.0,4.0,4
 Vermont,0.0,0,0,1.0,0.0,1.0,1
 Washington,0.0,0,0,5.0,1.0,4.0,5
-Combined,46.0,13,17,845.0,137.0,82.0,942
+Combined,46.0,13,17,874.0,143.0,83.0,969
