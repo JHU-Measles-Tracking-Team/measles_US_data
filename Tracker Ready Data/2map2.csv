@@ -23,44 +23,48 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 48049,Brown,Texas,-98.9998,31.7742,0,local,0.0
 42017,Bucks,Pennsylvania,-75.1069,40.337,0,imported,0.0
 42017,Bucks,Pennsylvania,-75.1069,40.337,0,local,0.0
+48065,Carson,Texas,-101.3542,35.4035,1,imported,0.0
+48065,Carson,Texas,-101.3542,35.4035,1,local,1.0
+38017,Cass,North Dakota,-97.248,46.933,2,imported,2.0
+38017,Cass,North Dakota,-97.248,46.933,2,local,0.0
 35005,Chaves,New Mexico,-104.4669,33.3633,0,imported,0.0
 35005,Chaves,New Mexico,-104.4669,33.3633,0,local,0.0
 48079,Cochran,Texas,-102.8285,33.6042,0,imported,0.0
 48079,Cochran,Texas,-102.8285,33.6042,0,local,0.0
 48085,Collin,Texas,-96.5724,33.188,0,imported,0.0
 48085,Collin,Texas,-96.5724,33.188,0,local,0.0
-17031,Cook,Illinois,-87.8168,41.8401,1,imported,0.0
-17031,Cook,Illinois,-87.8168,41.8401,1,local,1.0
+17031,Cook,Illinois,-87.8168,41.8401,0,imported,0.0
+17031,Cook,Illinois,-87.8168,41.8401,0,local,0.0
 35009,Curry,New Mexico,-103.347,34.5742,1,imported,0.0
 35009,Curry,New Mexico,-103.347,34.5742,1,local,1.0
 39035,Cuyahoga,Ohio,-81.6586,41.4243,1,imported,0.0
 39035,Cuyahoga,Ohio,-81.6586,41.4243,1,local,1.0
 48111,Dallam,Texas,-102.6022,36.2779,0,imported,0.0
 48111,Dallam,Texas,-102.6022,36.2779,0,local,0.0
-48115,Dawson,Texas,-101.9476,32.7426,1,imported,0.0
-48115,Dawson,Texas,-101.9476,32.7426,1,local,1.0
-39039,Defiance,Ohio,-84.4905,41.3239,1,imported,0.0
-39039,Defiance,Ohio,-84.4905,41.3239,1,local,1.0
-48121,Denton,Texas,-97.1168,33.2055,1,imported,0.0
-48121,Denton,Texas,-97.1168,33.2055,1,local,1.0
+48115,Dawson,Texas,-101.9476,32.7426,0,imported,0.0
+48115,Dawson,Texas,-101.9476,32.7426,0,local,0.0
+39039,Defiance,Ohio,-84.4905,41.3239,0,imported,0.0
+39039,Defiance,Ohio,-84.4905,41.3239,0,local,0.0
+48121,Denton,Texas,-97.1168,33.2055,0,imported,0.0
+48121,Denton,Texas,-97.1168,33.2055,0,local,0.0
 8031,Denver,Colorado,-104.8758,39.762,0,imported,0.0
 8031,Denver,Colorado,-104.8758,39.762,0,local,0.0
-35013,Dona Ana,New Mexico,-106.8328,32.3526,1,imported,0.0
-35013,Dona Ana,New Mexico,-106.8328,32.3526,1,local,1.0
-48133,Eastland,Texas,-98.8323,32.3271,2,imported,0.0
-48133,Eastland,Texas,-98.8323,32.3271,2,local,2.0
-48135,Ector,Texas,-102.5429,31.8692,1,imported,0.0
-48135,Ector,Texas,-102.5429,31.8692,1,local,1.0
+35013,Dona Ana,New Mexico,-106.8328,32.3526,0,imported,0.0
+35013,Dona Ana,New Mexico,-106.8328,32.3526,0,local,0.0
+48133,Eastland,Texas,-98.8323,32.3271,0,imported,0.0
+48133,Eastland,Texas,-98.8323,32.3271,0,local,0.0
+48135,Ector,Texas,-102.5429,31.8692,0,imported,0.0
+48135,Ector,Texas,-102.5429,31.8692,0,local,0.0
 35015,Eddy,New Mexico,-104.3044,32.4714,0,imported,0.0
 35015,Eddy,New Mexico,-104.3044,32.4714,0,local,0.0
-48141,El Paso,Texas,-106.2348,31.7686,28,imported,0.0
-48141,El Paso,Texas,-106.2348,31.7686,28,local,28.0
+48141,El Paso,Texas,-106.2348,31.7686,14,imported,0.0
+48141,El Paso,Texas,-106.2348,31.7686,14,local,14.0
 48143,Erath,Texas,-98.2179,32.2363,0,imported,0.0
 48143,Erath,Texas,-98.2179,32.2363,0,local,0.0
 42049,Erie,Pennsylvania,-80.0327,41.9925,3,imported,0.0
 42049,Erie,Pennsylvania,-80.0327,41.9925,3,local,3.0
-5045,Faulkner,Arkansas,-105.2505,39.5864,1,imported,0.0
-5045,Faulkner,Arkansas,-105.2505,39.5864,1,local,1.0
+5045,Faulkner,Arkansas,-105.2505,39.5864,2,imported,0.0
+5045,Faulkner,Arkansas,-105.2505,39.5864,2,local,2.0
 20055,Finney,Kansas,-100.737,38.0443,1,imported,0.0
 20055,Finney,Kansas,-100.737,38.0443,1,local,1.0
 20057,Ford,Kansas,-99.888,37.6917,1,imported,0.0
@@ -75,26 +79,26 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 13121,Fulton,Georgia,-84.467,33.7902,0,local,0.0
 48165,Gaines,Texas,-102.6352,32.7408,10,imported,0.0
 48165,Gaines,Texas,-102.6352,32.7408,10,local,10.0
-30031,Gallatin,Montana,-111.1704,45.5404,3,imported,0.0
-30031,Gallatin,Montana,-111.1704,45.5404,3,local,3.0
+30031,Gallatin,Montana,-111.1704,45.5404,1,imported,0.0
+30031,Gallatin,Montana,-111.1704,45.5404,1,local,1.0
 48169,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 48169,Garza,Texas,-101.2984,33.1799,0,local,0.0
 20067,Grant,Kansas,-101.308,37.5623,1,imported,0.0
 20067,Grant,Kansas,-101.308,37.5623,1,local,1.0
-20069,Gray,Kansas,-100.4379,37.7382,12,imported,0.0
-20069,Gray,Kansas,-100.4379,37.7382,12,local,12.0
+20069,Gray,Kansas,-100.4379,37.7382,6,imported,0.0
+20069,Gray,Kansas,-100.4379,37.7382,6,local,6.0
 48189,Hale,Texas,-101.8269,34.0705,1,imported,0.0
 48189,Hale,Texas,-101.8269,34.0705,1,local,1.0
-48197,Hardeman,Texas,-99.7457,34.2902,1,imported,0.0
-48197,Hardeman,Texas,-99.7457,34.2902,1,local,1.0
+48197,Hardeman,Texas,-99.7457,34.2902,0,imported,0.0
+48197,Hardeman,Texas,-99.7457,34.2902,0,local,0.0
 48201,Harris,Texas,-95.3938,29.8578,0,imported,0.0
 48201,Harris,Texas,-95.3938,29.8578,0,local,0.0
 20081,Haskell,Kansas,-100.8712,37.5622,0,imported,0.0
 20081,Haskell,Kansas,-100.8712,37.5622,0,local,0.0
 27053,Hennepin,Minnesota,-93.477,45.0046,0,imported,0.0
 27053,Hennepin,Minnesota,-93.477,45.0046,0,local,0.0
-48219,Hockley,Texas,-102.3432,33.6076,1,imported,0.0
-48219,Hockley,Texas,-102.3432,33.6076,1,local,1.0
+48219,Hockley,Texas,-102.3432,33.6076,0,imported,0.0
+48219,Hockley,Texas,-102.3432,33.6076,0,local,0.0
 39075,Holmes,Ohio,-81.9293,40.5612,0,imported,0.0
 39075,Holmes,Ohio,-81.9293,40.5612,0,local,0.0
 15003,Honolulu,Hawaii,-158.0739,21.4899,0,imported,0.0
@@ -115,20 +119,20 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 39083,Knox,Ohio,-82.4215,40.3988,0,local,0.0
 47093,Knox,Tennessee,-83.9371,35.9932,0,imported,0.0
 47093,Knox,Tennessee,-83.9371,35.9932,0,local,0.0
-48277,Lamar,Texas,-95.5712,33.6673,5,imported,0.0
-48277,Lamar,Texas,-95.5712,33.6673,5,local,5.0
+48277,Lamar,Texas,-95.5712,33.6673,2,imported,0.0
+48277,Lamar,Texas,-95.5712,33.6673,2,local,2.0
 48279,Lamb,Texas,-102.3517,34.0686,0,imported,0.0
 48279,Lamb,Texas,-102.3517,34.0686,0,local,0.0
 50015,Lamoille,Vermont,-72.6419,44.607,0,imported,0.0
 50015,Lamoille,Vermont,-72.6419,44.607,0,local,0.0
 42071,Lancaster,Pennsylvania,-76.2477,40.0424,0,imported,0.0
 42071,Lancaster,Pennsylvania,-76.2477,40.0424,0,local,0.0
-35025,Lea,New Mexico,-103.4125,32.7921,3,imported,0.0
-35025,Lea,New Mexico,-103.4125,32.7921,3,local,3.0
+35025,Lea,New Mexico,-103.4125,32.7921,4,imported,0.0
+35025,Lea,New Mexico,-103.4125,32.7921,4,local,4.0
 6037,Los Angeles,California,-118.2247,34.3219,2,imported,2.0
 6037,Los Angeles,California,-118.2247,34.3219,2,local,0.0
-48303,Lubbock,Texas,-101.8205,33.6102,4,imported,0.0
-48303,Lubbock,Texas,-101.8205,33.6102,4,local,4.0
+48303,Lubbock,Texas,-101.8205,33.6102,2,imported,0.0
+48303,Lubbock,Texas,-101.8205,33.6102,2,local,2.0
 48305,Lynn,Texas,-101.8161,33.1768,0,imported,0.0
 48305,Lynn,Texas,-101.8161,33.1768,0,local,0.0
 26099,Macomb,Michigan,-82.9323,42.6957,0,imported,0.0
@@ -151,8 +155,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 36061,New York,New York,-73.9668,40.7792,0,local,0.0
 26125,Oakland,Michigan,-83.3858,42.6604,0,imported,0.0
 26125,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
-40109,Oklahoma,Oklahoma,-97.4072,35.5515,2,imported,0.0
-40109,Oklahoma,Oklahoma,-97.4072,35.5515,2,local,2.0
+40109,Oklahoma,Oklahoma,-97.4072,35.5515,1,imported,0.0
+40109,Oklahoma,Oklahoma,-97.4072,35.5515,1,local,1.0
 6059,Orange,California,-117.7609,33.7031,0,imported,0.0
 6059,Orange,California,-117.7609,33.7031,0,local,0.0
 36071,Orange,New York,-74.3056,41.4022,3,imported,3.0
@@ -165,8 +169,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,0,local,0.0
 6061,Placer,California,-120.7177,39.0634,0,imported,0.0
 6061,Placer,California,-120.7177,39.0634,0,local,0.0
-48375,Potter,Texas,-101.8939,35.4013,1,imported,0.0
-48375,Potter,Texas,-101.8939,35.4013,1,local,1.0
+48375,Potter,Texas,-101.8939,35.4013,0,imported,0.0
+48375,Potter,Texas,-101.8939,35.4013,0,local,0.0
 24033,Prince George's,Maryland,-76.8473,38.8295,0,imported,0.0
 24033,Prince George's,Maryland,-76.8473,38.8295,0,local,0.0
 51153,Prince William,Virginia,-77.4809,38.7029,0,imported,0.0
@@ -179,6 +183,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 48381,Randall,Texas,-101.897,34.9659,0,local,0.0
 48389,Reeves,Texas,-103.693,31.323,0,imported,0.0
 48389,Reeves,Texas,-103.693,31.323,0,local,0.0
+20155,Reno,Kansas,-98.086,37.953,1,imported,0.0
+20155,Reno,Kansas,-98.086,37.953,1,local,1.0
 6065,Riverside,California,-115.9938,33.7436,0,imported,0.0
 6065,Riverside,California,-115.9938,33.7436,0,local,0.0
 48397,Rockwall,Texas,-96.4079,32.8978,0,imported,0.0
@@ -187,8 +193,12 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 5125,Saline,Arkansas,-92.6766,34.6466,0,local,0.0
 6081,San Mateo,California,-122.3291,37.4228,0,imported,0.0
 6081,San Mateo,California,-122.3291,37.4228,0,local,0.0
-48417,Shackelford,Texas,-99.354,32.7359,1,imported,0.0
-48417,Shackelford,Texas,-99.354,32.7359,1,local,1.0
+35043,Sandoval,New Mexico,-106.8659,35.6886,2,imported,0.0
+35043,Sandoval,New Mexico,-106.8659,35.6886,2,local,2.0
+20173,Sedgwick,Kansas,-97.461,37.6848,1,imported,0.0
+20173,Sedgwick,Kansas,-97.461,37.6848,1,local,1.0
+48417,Shackelford,Texas,-99.354,32.7359,0,imported,0.0
+48417,Shackelford,Texas,-99.354,32.7359,0,local,0.0
 47157,Shelby,Tennessee,-89.8938,35.1843,0,imported,0.0
 47157,Shelby,Tennessee,-89.8938,35.1843,0,local,0.0
 53061,Snohomish,Washington,-121.6972,48.0474,0,imported,0.0
@@ -203,14 +213,14 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 48439,Tarrant,Texas,-97.2911,32.7719,2,local,2.0
 48445,Terry,Texas,-102.3352,33.1738,1,imported,0.0
 48445,Terry,Texas,-102.3352,33.1738,1,local,1.0
-48453,Travis,Texas,-97.782,30.3344,1,imported,0.0
-48453,Travis,Texas,-97.782,30.3344,1,local,1.0
+48453,Travis,Texas,-97.782,30.3344,0,imported,0.0
+48453,Travis,Texas,-97.782,30.3344,0,local,0.0
 6109,Tuolumne,California,-119.9548,38.0276,0,imported,0.0
 6109,Tuolumne,California,-119.9548,38.0276,0,local,0.0
-48459,Upshur,Texas,-94.9415,32.7363,-13,imported,0.0
-48459,Upshur,Texas,-94.9415,32.7363,-13,local,-13.0
-38105,Williams,North Dakota,-103.4802,48.3437,9,imported,1.0
-38105,Williams,North Dakota,-103.4802,48.3437,9,local,8.0
+48459,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
+48459,Upshur,Texas,-94.9415,32.7363,0,local,0.0
+38105,Williams,North Dakota,-103.4802,48.3437,9,imported,0.0
+38105,Williams,North Dakota,-103.4802,48.3437,9,local,9.0
 17199,Williamson,Illinois,-88.9299,37.7303,3,imported,0.0
 17199,Williamson,Illinois,-88.9299,37.7303,3,local,3.0
 48501,Yoakum,Texas,-102.8278,33.173,1,imported,0.0
