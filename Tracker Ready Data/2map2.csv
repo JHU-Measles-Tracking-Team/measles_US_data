@@ -1,8 +1,12 @@
 fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
+51003,Albemarle,Virginia,-78.5567,38.0229,1,imported,1.0
+51003,Albemarle,Virginia,-78.5567,38.0229,1,local,0.0
 18003,Allen,Indiana,-85.0665,41.0909,0,imported,0.0
 18003,Allen,Indiana,-85.0665,41.0909,0,local,0.0
 39003,Allen,Ohio,-84.1058,40.7715,0,imported,0.0
 39003,Allen,Ohio,-84.1058,40.7715,0,local,0.0
+2020,Anchorage,Alaska,-149.1082,61.1498,1,imported,0.0
+2020,Anchorage,Alaska,-149.1082,61.1498,1,local,1.0
 48003,Andrews,Texas,-102.6377,32.305,0,imported,0.0
 48003,Andrews,Texas,-102.6377,32.305,0,local,0.0
 8007,Archuleta,Colorado,-107.0483,37.1935,0,imported,0.0
@@ -21,14 +25,16 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 48039,Brazoria,Texas,-95.4521,29.1898,0,local,0.0
 48043,Brewster,Texas,-103.2517,29.8119,1,imported,0.0
 48043,Brewster,Texas,-103.2517,29.8119,1,local,1.0
+12011,Broward,Florida,-80.4871,26.1523,0,imported,0.0
+12011,Broward,Florida,-80.4871,26.1523,0,local,0.0
 48049,Brown,Texas,-98.9998,31.7742,0,imported,0.0
 48049,Brown,Texas,-98.9998,31.7742,0,local,0.0
 42017,Bucks,Pennsylvania,-75.1069,40.337,0,imported,0.0
 42017,Bucks,Pennsylvania,-75.1069,40.337,0,local,0.0
-48065,Carson,Texas,-101.3542,35.4035,1,imported,0.0
-48065,Carson,Texas,-101.3542,35.4035,1,local,1.0
-38017,Cass,North Dakota,-97.248,46.933,6,imported,2.0
-38017,Cass,North Dakota,-97.248,46.933,6,local,4.0
+48065,Carson,Texas,-101.3542,35.4035,0,imported,0.0
+48065,Carson,Texas,-101.3542,35.4035,0,local,0.0
+38017,Cass,North Dakota,-97.248,46.933,5,imported,0.0
+38017,Cass,North Dakota,-97.248,46.933,5,local,5.0
 35005,Chaves,New Mexico,-104.4669,33.3633,0,imported,0.0
 35005,Chaves,New Mexico,-104.4669,33.3633,0,local,0.0
 48079,Cochran,Texas,-102.8285,33.6042,0,imported,0.0
@@ -59,8 +65,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 48135,Ector,Texas,-102.5429,31.8692,0,local,0.0
 35015,Eddy,New Mexico,-104.3044,32.4714,0,imported,0.0
 35015,Eddy,New Mexico,-104.3044,32.4714,0,local,0.0
-48141,El Paso,Texas,-106.2348,31.7686,6,imported,0.0
-48141,El Paso,Texas,-106.2348,31.7686,6,local,6.0
+48141,El Paso,Texas,-106.2348,31.7686,5,imported,0.0
+48141,El Paso,Texas,-106.2348,31.7686,5,local,5.0
 48143,Erath,Texas,-98.2179,32.2363,0,imported,0.0
 48143,Erath,Texas,-98.2179,32.2363,0,local,0.0
 42049,Erie,Pennsylvania,-80.0327,41.9925,0,imported,0.0
@@ -81,14 +87,14 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 6019,Fresno,California,-119.6493,36.7582,0,local,0.0
 13121,Fulton,Georgia,-84.467,33.7902,1,imported,1.0
 13121,Fulton,Georgia,-84.467,33.7902,1,local,0.0
-48165,Gaines,Texas,-102.6352,32.7408,5,imported,0.0
-48165,Gaines,Texas,-102.6352,32.7408,5,local,5.0
-30031,Gallatin,Montana,-111.1704,45.5404,0,imported,0.0
-30031,Gallatin,Montana,-111.1704,45.5404,0,local,0.0
+48165,Gaines,Texas,-102.6352,32.7408,3,imported,0.0
+48165,Gaines,Texas,-102.6352,32.7408,3,local,3.0
+30031,Gallatin,Montana,-111.1704,45.5404,1,imported,0.0
+30031,Gallatin,Montana,-111.1704,45.5404,1,local,1.0
 48169,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 48169,Garza,Texas,-101.2984,33.1799,0,local,0.0
-38035,Grand Forks,North Dakota,-97.4569,47.9219,2,imported,2.0
-38035,Grand Forks,North Dakota,-97.4569,47.9219,2,local,0.0
+38035,Grand Forks,North Dakota,-97.4569,47.9219,3,imported,2.0
+38035,Grand Forks,North Dakota,-97.4569,47.9219,3,local,1.0
 20067,Grant,Kansas,-101.308,37.5623,0,imported,0.0
 20067,Grant,Kansas,-101.308,37.5623,0,local,0.0
 20069,Gray,Kansas,-100.4379,37.7382,6,imported,0.0
@@ -139,12 +145,12 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 50015,Lamoille,Vermont,-72.6419,44.607,0,local,0.0
 42071,Lancaster,Pennsylvania,-76.2477,40.0424,0,imported,0.0
 42071,Lancaster,Pennsylvania,-76.2477,40.0424,0,local,0.0
-35025,Lea,New Mexico,-103.4125,32.7921,1,imported,0.0
-35025,Lea,New Mexico,-103.4125,32.7921,1,local,1.0
+35025,Lea,New Mexico,-103.4125,32.7921,2,imported,0.0
+35025,Lea,New Mexico,-103.4125,32.7921,2,local,2.0
 6037,Los Angeles,California,-118.2247,34.3219,0,imported,0.0
 6037,Los Angeles,California,-118.2247,34.3219,0,local,0.0
-48303,Lubbock,Texas,-101.8205,33.6102,2,imported,0.0
-48303,Lubbock,Texas,-101.8205,33.6102,2,local,2.0
+48303,Lubbock,Texas,-101.8205,33.6102,1,imported,0.0
+48303,Lubbock,Texas,-101.8205,33.6102,1,local,1.0
 48305,Lynn,Texas,-101.8161,33.1768,0,imported,0.0
 48305,Lynn,Texas,-101.8161,33.1768,0,local,0.0
 26099,Macomb,Michigan,-82.9323,42.6957,0,imported,0.0
@@ -165,16 +171,18 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 20129,Morton,Kansas,-101.7992,37.1914,0,local,0.0
 29143,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
 29143,New Madrid,Missouri,-89.6517,36.5946,0,local,0.0
-36061,New York,New York,-73.9668,40.7792,0,imported,0.0
-36061,New York,New York,-73.9668,40.7792,0,local,0.0
+36061,New York,New York,-73.9668,40.7792,3,imported,0.0
+36061,New York,New York,-73.9668,40.7792,3,local,3.0
 26125,Oakland,Michigan,-83.3858,42.6604,0,imported,0.0
 26125,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
 40109,Oklahoma,Oklahoma,-97.4072,35.5515,0,imported,0.0
 40109,Oklahoma,Oklahoma,-97.4072,35.5515,0,local,0.0
+36069,Ontario,New York,-77.2998,42.8528,1,imported,0.0
+36069,Ontario,New York,-77.2998,42.8528,1,local,1.0
 6059,Orange,California,-117.7609,33.7031,0,imported,0.0
 6059,Orange,California,-117.7609,33.7031,0,local,0.0
-36071,Orange,New York,-74.3056,41.4022,3,imported,3.0
-36071,Orange,New York,-74.3056,41.4022,3,local,0.0
+36071,Orange,New York,-74.3056,41.4022,1,imported,0.0
+36071,Orange,New York,-74.3056,41.4022,1,local,1.0
 22071,Orleans,Louisiana,-89.9289,30.0687,0,imported,0.0
 22071,Orleans,Louisiana,-89.9289,30.0687,0,local,0.0
 48369,Parmer,Texas,-102.7845,34.5301,0,imported,0.0
@@ -225,8 +233,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 36103,Suffolk,New York,-72.8456,40.8681,0,local,0.0
 29213,Taney,Missouri,-93.0411,36.6548,0,imported,0.0
 29213,Taney,Missouri,-93.0411,36.6548,0,local,0.0
-48439,Tarrant,Texas,-97.2911,32.7719,0,imported,0.0
-48439,Tarrant,Texas,-97.2911,32.7719,0,local,0.0
+48439,Tarrant,Texas,-97.2911,32.7719,2,imported,0.0
+48439,Tarrant,Texas,-97.2911,32.7719,2,local,2.0
 48445,Terry,Texas,-102.3352,33.1738,0,imported,0.0
 48445,Terry,Texas,-102.3352,33.1738,0,local,0.0
 48453,Travis,Texas,-97.782,30.3344,0,imported,0.0
